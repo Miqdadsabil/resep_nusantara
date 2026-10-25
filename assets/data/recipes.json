@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1, "name": "Nasi Goreng Kampung", "category": "Makanan Utama",
+    "origin": "Jawa", "duration": 25, "difficulty": "Mudah", "rating": 4.8,
+    "emoji": "🍛", "imageUrl": "", "date": "2025-10-01",
+    "description": "Nasi goreng sederhana dengan cita rasa gurih dan sedikit pedas, cocok untuk sarapan maupun makan malam.",
+    "ingredients": ["2 piring nasi putih", "3 siung bawang putih", "4 siung bawang merah", "2 butir telur", "2 sdm kecap manis", "Garam dan merica secukupnya", "Cabai rawit sesuai selera"],
+    "steps": ["Haluskan bawang putih, bawang merah, dan cabai.", "Tumis bumbu halus hingga harum.", "Masukkan telur, orak-arik hingga matang.", "Tambahkan nasi, kecap, garam, dan merica, aduk rata.", "Masak 3 menit lalu sajikan dengan kerupuk."]
+  },
+  {
+    "id": 2, "name": "Soto Ayam Lamongan", "category": "Sup",
+    "origin": "Jawa Timur", "duration": 60, "difficulty": "Sedang", "rating": 4.9,
+    "emoji": "🍲", "imageUrl": "", "date": "2025-10-05",
+    "description": "Soto berkuah kuning bening dengan taburan koya yang gurih.",
+    "ingredients": ["500 g daging ayam", "2 batang serai", "3 lembar daun jeruk", "1 ruas kunyit", "Bawang putih dan bawang merah", "Soun dan telur rebus", "Koya kerupuk udang"],
+    "steps": ["Rebus ayam hingga empuk, angkat dan suwir.", "Tumis bumbu halus bersama serai dan daun jeruk.", "Masukkan tumisan ke kaldu, masak 20 menit.", "Tata soun, ayam, dan telur di mangkuk.", "Siram kuah panas, taburi koya."]
+  },
+  {
+    "id": 3, "name": "Sate Ayam Madura", "category": "Bakar",
+    "origin": "Madura", "duration": 45, "difficulty": "Sedang", "rating": 4.7,
+    "emoji": "🍢", "imageUrl": "", "date": "2025-10-08",
+    "description": "Sate ayam dengan bumbu kacang kental dan kecap manis.",
+    "ingredients": ["500 g daging ayam fillet", "Tusuk sate", "200 g kacang tanah goreng", "Bawang putih dan bawang merah", "Kecap manis", "Jeruk limau"],
+    "steps": ["Potong ayam dadu kecil dan tusuk.", "Haluskan kacang bersama bumbu, masak jadi saus.", "Bakar sate sambil dioles kecap manis.", "Sajikan dengan saus kacang dan perasan jeruk."]
+  },
+  {
+    "id": 4, "name": "Pisang Goreng Crispy", "category": "Camilan",
+    "origin": "Nusantara", "duration": 20, "difficulty": "Mudah", "rating": 4.5,
+    "emoji": "🍌", "imageUrl": "", "date": "2025-10-12",
+    "description": "Camilan manis dengan balutan tepung renyah.",
+    "ingredients": ["5 buah pisang kepok", "150 g tepung terigu", "50 g tepung beras", "Garam dan gula secukupnya", "Air es dan minyak goreng"],
+    "steps": ["Campur tepung, garam, gula, dan air es hingga kental.", "Celupkan pisang ke adonan.", "Goreng dalam minyak panas hingga keemasan.", "Tiriskan dan sajikan hangat."]
+  },
+  {
+    "id": 5, "name": "Es Teh Tarik Susu", "category": "Minuman",
+    "origin": "Sumatera", "duration": 10, "difficulty": "Mudah", "rating": 4.3,
+    "emoji": "🧋", "imageUrl": "", "date": "2025-10-15",
+    "description": "Minuman teh susu yang manis, segar, dan berbusa.",
+    "ingredients": ["2 sdm teh hitam", "300 ml air panas", "3 sdm susu kental manis", "Es batu"],
+    "steps": ["Seduh teh dengan air panas selama 5 menit.", "Saring dan campur dengan susu kental manis.", "Tuang bolak-balik antar gelas hingga berbusa.", "Sajikan dengan es batu."]
+  },
+  {
+    "id": 6, "name": "Rendang Daging Sapi", "category": "Makanan Utama",
+    "origin": "Sumatera Barat", "duration": 180, "difficulty": "Sulit", "rating": 5.0,
+    "emoji": "🥘", "imageUrl": "", "date": "2025-10-18",
+    "description": "Masakan kaya rempah yang dimasak perlahan hingga bumbu meresap dan mengering.",
+    "ingredients": ["1 kg daging sapi", "1 liter santan kental", "Cabai merah, bawang merah, bawang putih", "Lengkuas, jahe, kunyit", "Serai, daun jeruk, daun kunyit", "Garam dan gula merah"],
+    "steps": ["Haluskan semua bumbu.", "Masak santan dan bumbu hingga mendidih.", "Masukkan daging, masak api kecil sambil sesekali diaduk.", "Lanjutkan 2-3 jam hingga kuah menyusut dan berminyak.", "Angkat dan sajikan dengan nasi hangat."]
+  },
+  {
+    "id": 7, "name": "Ikan Bakar Jimbaran", "category": "Bakar",
+    "origin": "Bali", "duration": 40, "difficulty": "Sedang", "rating": 4.6,
+    "emoji": "🐟", "imageUrl": "", "date": "2025-10-20",
+    "description": "Ikan bakar dengan bumbu base genep yang segar dan harum.",
+    "ingredients": ["2 ekor ikan kakap", "Bawang merah, bawang putih, cabai", "Kunyit, jahe, kemiri", "Jeruk nipis dan kecap manis", "Minyak kelapa"],
+    "steps": ["Lumuri ikan dengan jeruk nipis dan garam.", "Tumis bumbu halus hingga matang.", "Olesi ikan dengan bumbu.", "Bakar di atas bara sambil dibalik hingga matang."]
+  },
+  {
+    "id": 8, "name": "Klepon Pandan", "category": "Camilan",
+    "origin": "Jawa", "duration": 35, "difficulty": "Sedang", "rating": 4.4,
+    "emoji": "🟢", "imageUrl": "", "date": "2025-10-21",
+    "description": "Jajanan pasar berisi gula merah cair dengan balutan kelapa parut.",
+    "ingredients": ["200 g tepung ketan", "Air daun pandan", "100 g gula merah sisir", "100 g kelapa parut", "Sejumput garam"],
+    "steps": ["Campur tepung ketan dengan air pandan hingga kalis.", "Bulatkan adonan dan isi gula merah.", "Rebus hingga mengapung.", "Angkat, tiriskan, gulingkan di kelapa parut."]
+  }
+]
